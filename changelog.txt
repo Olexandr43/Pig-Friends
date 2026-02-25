@@ -1,0 +1,135 @@
+[Patch 1.5.7]
+- Added: Correct, much better port of 'Game Progression - Unlocks' window.
+- Fixed: Localisation errors.
+- Fixed: Arena start validation now counts a selected ally as a combatant.
+- Fixed: Ally label not showing level on the first addition.
+- Fixed: Style bleed between different ally entries for labels.
+- Fixed: Team page reset when exitin friend list.
+- Fixed: Allies name overlapping with icon for ally right to it.
+- Removed: Auto-fill fallback in regular and arena battle prep.
+- Removed: The “cannot deselect last bird” guard.
+
+[Patch 1.5.6]
+- Added: Restored the 'Game Progression - Unlocks' window.
+- Added: Restored owned vehicles on water in Camp.
+- Added: Support for more than 3 combatants in Arena.
+- Fixed: Some enemy pig FX.
+- Fixed: A lot of untranslated strings.
+- Fixed: pig_golden_pig_boss death outside of Golden Clouds.
+- Fixed: Bomb(pig) softlock.
+- Fixed: Infpigity leveling not working.
+- Fixed: Infpigity audio.
+- Fixed: Undead summoned pigs not dying.
+- Fixed: Undead KO on Arena;
+- Fixed: Arena pig\boss ally card.
+- Fixed: OrderAttack used on ally pigs moved them like enemy.
+- Fixed: Arena button wasnt moving away when Credits opened.
+- Fixed: BattleProgress Bird wrong Y pos if lagspike occurs on transition.
+- Fixed: Speedup effect carry into win/lose screens.
+
+[Patch 1.5.5]
+- Added: Infpigity.
+- Added: New speedup button look.
+- Fixed: Charge meter skip with autoplay.
+- Fixed: Trap Bomb softlock.
+- Fixed: Autoplay targeting defeated enemies.
+- Fixed: Some pigs FX.
+
+[Patch 1.5.4]
+- Fixed: Summoned undead pigs being ignored by game.
+- Fixed: Bird team positioning when many pigs are present.
+- Fixed: End-of-turn return branch of ally pigs.
+- Fixed: Optimised select in friend list.
+- Fixed: Arena broken FX.
+- Fixed: FX summoned by enemy pig on ally pigs.
+- Added: New look, sound and some tweaks for Team buttons.
+- Added: x2 SpeedUp button for battles.
+- Added: Update check.
+
+[Patch 1.5.3]
+- Fixed: Team buttons issues.
+- Fixed: Tinker Titan as ally not working with OrderAttackSkill.
+- Fixed: Incorrect stats in friend list on Dungeon and Chronicle Cave levels.
+- Fixed: Undead passive for summoned allies.
+- Fixed: Charge meter in rare cases.
+- Fixed: Charge-flow bug with OrderAttackSkill.
+- Fixed: Softlock after winning the battle in arena with pig\boss ally.
+
+[Patch 1.5.2]
+- Fixed: Undead passive for allies.
+- Fixed: Tinker titan as ally.
+- Fixed some SkillFX for pig allies.
+
+[Patch 1.5.1]
+- Fixed: some translations.
+- Fixed: untranslated strings.
+- Fixed: pig\boss allies on arena softlock.
+- Fixed: Time is Snoutlings passive.
+- Fixed: 1-turn charge meter attack.
+- Fixed: Team buttons overlap in some cases.
+- Added: all friends appear outside of Chronicle Cave.
+- Added: Buffed Valkyre.
+
+[Patch 1.5]
+- Added: ally support for Arena.
+- Added: new ally menu with support up to 5 allies.
+- Added: assets for Puzzles and Dragons enemies.
+- Added: New 'Sonic Buff' friend - a stronger Sonic.
+- Added: Favoriting feature, click on stars next to wanted ally!
+- Removed: allies with 1:1 battle stats.
+- Removed: tutorial hands.
+- Fixed: skill switcher sometimes switching to passives.
+- Fixed: overthere! type effects for bird team.
+- Fixed: onDeath passives for ally pigs.
+- Fixed: all unselectable pigs and Mighty Eagle.
+- Fixed: some FX invisible for ally pigs\boses.
+- Fixed: ally pigs charging, now it functions 1:1 as enemy one.
+- Fixed: some ally pig status-effects look.
+- Fixed: bug when pig allies could attack defeated enemy.
+
+[Patch 1.4.1]
+- Fixed: Ally pigs\bosses effects facing wrong direction.
+- Fixed: Some skills for ally pigs.
+- Fixed: bomb + Counter skill = softlock.
+- Fixed: Vanilla PFP`s.
+
+[Patch 1.4]
+- Added: Search in friend list.
+- Added: Sorting in friend list.
+- Added: Button to choose random ally.
+- Added: Mod info button.
+- Added: Ability to deselect all birds and play only with ally.
+- Added: Offers to buy every event class.
+- Fixed: Renders misalignment/disappearance on page switch (FINALLY!).
+- Fixed: Pigs with bird assets facing wrong direction in LootWheel screen.
+- Fixed: Charge meter waiting for act to fully complete before disappearing.
+- Fixed: OrderAttackSkill for pigs with charge.
+- Fixed: Demonic passive.
+- Fixed: Skulkers ability - clones for pigs/bosses.
+- Fixed: boss_kraken memory leak if picked with 3 birds.
+- Removed: 'resolved' versions of pigs from friend list.
+
+[Patch 1.3.1]
+- Fixed: Wildling passive.
+- Fixed: Ally pigs cant attack same enemy pigs.
+- Fixed: Pig allies VFX facing wrong direction.
+
+[Patch 1.3]
+- Fixed: Undead passive.
+- Fixed: Pig allies with bird assets facing wrong direction.
+- Fixed: LootWheel softlock if too many people are on bird team.
+- Fixed: Rare autoplay battle softlock.
+- Added: Normal levels now have NO bird slot penalty.
+
+[Patch 1.2]
+- Fixed: Pigs not having items on Battle Prep/Loot Wheel.
+- Fixed: Android package name.
+- Fixed: Charge meter visual bugs.
+- Fixed: 1-turn charge pigs unable to perform act.
+- Fixed: Missing AssetID for gungho pigs.
+- Fixed: Rare battle softlock.
+- Added: Tap pig to switch attack (if 2 offensive skills).
+
+[Patch 1.1]
+- Fixed: Alphapig blocks potions forever.
+- Fixed: Ally pigs/bosses not contributing to final score.
