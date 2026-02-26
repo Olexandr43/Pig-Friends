@@ -15,6 +15,7 @@
 - Fixed: Monty #2 eating Chucks rage.
 - Fixed: Ancient items not correctly saving\loading in Arena.
 - Fixed: Undead while KO`d not counted for space.
+- Fixed: Mirror Image clone for pig alies.
 - Fixed: Charged attacks bug in pair with chacks rage.
 - Removed: Auto-fill fallback in regular and arena battle prep.
 - Removed: The “cannot deselect last bird” guard.
