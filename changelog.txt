@@ -1,13 +1,24 @@
 [Patch 1.5.7]
 - Added: Correct, much better port of 'Game Progression - Unlocks' window.
+- Added: Indication when attack is switched.
+- Added: Setting menu.
+- Added: All classes in the Piggy McCool`s Shop.
+- Added: Changelog in the News window.
+- Added: New controlls to select multiple of the same ally.
 - Fixed: Localisation errors.
 - Fixed: Arena start validation now counts a selected ally as a combatant.
 - Fixed: Ally label not showing level on the first addition.
 - Fixed: Style bleed between different ally entries for labels.
 - Fixed: Team page reset when exitin friend list.
 - Fixed: Allies name overlapping with icon for ally right to it.
+- Fixed: Counter not counting for ally in Arena.
+- Fixed: Monty #2 eating Chucks rage.
+- Fixed: Ancient items not correctly saving\loading in Arena.
+- Fixed: Undead while KO`d not counted for space.
+- Fixed: Charged attacks bug in pair with chacks rage.
 - Removed: Auto-fill fallback in regular and arena battle prep.
 - Removed: The “cannot deselect last bird” guard.
+- Removed: Arena -1 bird restriction if ally is choosen.
 
 [Patch 1.5.6]
 - Added: Restored the 'Game Progression - Unlocks' window.
@@ -133,3 +144,10 @@
 [Patch 1.1]
 - Fixed: Alphapig blocks potions forever.
 - Fixed: Ally pigs/bosses not contributing to final score.
+
+
+Yo, you got me, i think...
+
+Prince Proks = Ross
+
+Fight me!
