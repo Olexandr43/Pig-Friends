@@ -2,7 +2,6 @@
 - Added: New setting to remove combatant cap in battle.
 - Added: New battlefield for Infpigity.
 - Added: Some tweaks for Infpigity.
-- Added: Now event classes require all 5 birds to buy.
 - Fixed: Softlock if enemy dies and heals at the same time.
 - Fixed: Chucks rage not working on 1-turn charge allies.
 - Fixed: Mastery for Sonic Buff and Valkyrie Buff.
