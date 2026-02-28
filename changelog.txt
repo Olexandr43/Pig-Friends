@@ -1,3 +1,19 @@
+[Patch 1.5.8]
+- Added: New setting to remove combatant cap in battle.
+- Added: New battlefield for Infpigity.
+- Added: Some tweaks for Infpigity.
+- Added: Now event classes require all 5 birds to buy.
+- Fixed: Softlock if enemy dies and heals at the same time.
+- Fixed: Chucks rage not working on 1-turn charge allies.
+- Fixed: Mastery for Sonic Buff and Valkyrie Buff.
+- Fixed: Softlock on sale offers.
+- Fixed: Softlock if an Ad wasnt serialised correctly.
+- Fixed: Z-ordering in Friend List and Ally Team.
+- Fixed: Settings hitbox being out-of-bounds.
+- Fixed: Arena sponsored buff reseting ally.
+- Fixed: Version checker triggered for lover versions(eg. 1.5.7 -> 1.5.6).
+- Fixed: Normal mode Dungeon has no Team buttons.
+
 [Patch 1.5.7]
 - Added: Correct, a much better port of the 'Game Progression - Unlocks' window.
 - Added: Indication when attack is switched.
