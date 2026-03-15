@@ -1,6 +1,5 @@
 [Patch 1.6]
 - Added: Pig Editor.
-- Added: Infpigity.
 - Added: Boss Rush.
 - Added: Language selector.
 - Added: New split audio settings for SFX and Music.
