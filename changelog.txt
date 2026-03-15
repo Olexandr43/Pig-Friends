@@ -1,3 +1,57 @@
+[Patch 1.6]
+- Added: Pig Editor.
+- Added: Infpigity.
+- Added: Boss Rush.
+- Added: Language selector.
+- Added: New split audio settings for SFX and Music.
+- Added: Real Valkyre and Sonic friends. (also removed Buff versions)
+- Added: Puzzles & Dragons event.
+- Added: Optimised Friend List.
+- Added: New Avatars and Target icons.
+- Added: Multi-save system.
+- Added: Prince Porky in social friend.
+- Added: Jukebox to listen to music in the WorldMap.
+- Added: Ability to rename yourself on Arena (have to click Username).
+- Added: SelectionFrame color indication of changed ally pig skill. (can be turned OFF in Settings)
+- Added: Discord RPC. (can be turned OFF in Settings)
+- Added: HP bar segmentation toggle setting.
+- Added: Percentage to heart icon in info card.
+- Added: Custom 2026 daily calendar.
+- Added: Pig Level Scaling on completed levels. (can be turned ON in Settings)
+- Added: New setting to restore character_ghost_resurrection_01 sound.
+- Fixed: Charge meter system to 1:1 match the enemy one.
+- Fixed: SkillFX_Curse_ForceTarget to have a fallback if Pig Target sprite doesnt exist.
+- Fixed: Bosses on Battle Win\Loose screen.
+- Fixed: Softlock when bomb dies and heals at once.
+- Fixed: Translated some untranslated strings.
+- Fixed: Summonned allies on Bird side wrong position at spawn.
+- Fixed: Bug, where you cant set Username in Arena.
+- Fixed: Battle visual glitch on wave transition, if enemy died to roosterpig ability.
+- Fixed: 'spawn' allies summoned wrong way.
+- Fixed: Mirror Image for charge-attack pig allies.
+- Fixed: Mighty Eagles Mercenary not being pickable.
+- Fixed: Update checker on iOS now uses separete version file.
+- Fixed: Double KingPig audio on the lose screen.
+- Fixed: Some layers missing for Hogriders in Friends List.
+- Fixed: Boss ally moving like an Enemy instead of like a Bird.
+- Fixed: Smaller BOSSes setting to scale only the model, not its UI.
+- Fixed: Bosses in Arena have not working info card.
+- Fixed: ReduceRageAttackSkill not returning value_2.
+- Fixed: Some FX.
+- Fixed: StealHealing crashing game if used on both Ally and Enemy.
+- Fixed: Hunter Drones unable to attack if used Autoplay.
+- Fixed: News tab lag spike and animation bug.
+- Fixed: Renders in Friend List to sometimes have incorrect size.
+- Fixed: Removed some clone pigs from Friend List.
+- Fixed: Incorrect passive display in WizPigs Castle.
+- Fixed: Birds in Friend List having wrong classes.
+- Fixed: Kraken hurt animation not accounting for Fraction.
+- Fixed: Prof. Pig now can use HR atlas.
+- Fixed: Merchant Pig support sound not working.
+- Fixed: Over There! / Focus Target / In the Spotlight on autoplay.
+- Fixed: Run Away disappearing “out of air” with Zombie Master / Lightning Fast.
+- Fixed: Ordered-attack now correctly works with OnTarget.
+
 [Patch 1.5.8]
 - Added: New setting to remove combatant cap in battle.
 - Added: New battlefield for Infpigity.
