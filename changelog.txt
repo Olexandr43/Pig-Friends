@@ -1,3 +1,18 @@
+[Patch 1.6.1]
+- Pig Editor 1.1.0:
+	- Reworked Gear logic;
+	- Added enemies from Puzzles & Dragons and SonicDash events;
+	- Added Piggy McCool;
+	- Added skill preview in Skill Editor tab;
+	- Now renders use HR instead of LR;
+	- Fixed some UI visual bugs;
+	- Bug fixes for saving custom pigs.
+- Added: RPC for the Pig Editor.
+- Fixed: Some pigs in Boss Rush.
+- Fixed: Charge skills.
+- Fixed: Rooster Pigs skill softlock.
+- Fixed: Broken pig scale on WorldMap.
+
 [Patch 1.6]
 - Added: Pig Editor.
 - Added: Boss Rush.
