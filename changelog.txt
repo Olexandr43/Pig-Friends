@@ -1,3 +1,9 @@
+[Patch 1.6.2 - iOS]
+- Fixed: Incorrect size if searched in Friend List.
+- Fixed: Counter with charge skills.
+- Fixed: CRIT! text for some skills.
+- Fixed: Boss Rush pigs.
+
 [Patch 1.6.1]
 - Pig Editor 1.1.0:
   - Reworked gear logic
