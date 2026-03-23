@@ -1,4 +1,4 @@
-[Patch 1.6.2 - iOS]
+[Patch 1.6.2]
 - Fixed: Incorrect size if searched in Friend List.
 - Fixed: Counter with charge skills.
 - Fixed: CRIT! text for some skills.
