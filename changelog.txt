@@ -1,3 +1,27 @@
+[Patch 1.6.3]
+- Pig Editor 1.2.0:
+  - Added Skill 3
+  - Added "Frame" to all button grids, so you can see what is selected
+  - Improved looks for some labels
+  - Added "Pig Base" to "Body" tab, so you can use any pig as a base for yours
+  - Fixed incorrect weapons\shields for Birds
+  - Now "Test Level" auto sets to player level
+  - Improved tooltips
+  - Fixed incorrect stats scaling
+  - Added localisation
+  - Removed Piggy McCool, cause hes a bird(((
+- Added: New, reworked credits.
+- Added: Setting to hide Rage Chilly if no one on team has rage skill.
+- Fixed: Save File Manager on iOS.
+- Fixed: Incorrect version is some popups.
+- Fixed: Prince Porky being named by McCool`s name in mail.
+- Fixed: Porky appearing as your friend instead of sending friend requst.
+- Fixed: Golden Pig timer from 10 years to 24 hours.
+- Fixed: AttackTarget and AttackHailSkill and OrderAttack.
+- Fixed: Chucks rage for charge skills.
+- Fixed: Some tweaks to Boss Rush.
+- Fixed: Buff duration turns now decrement correctly when advancing to the next wave in multi-wave battles.
+
 [Patch 1.6.2]
 - Fixed: Incorrect size if searched in Friend List.
 - Fixed: Counter with charge skills.
