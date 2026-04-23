@@ -24,6 +24,7 @@
 - Fixed: Attack skill switcher in pair with Rage skill.
 - Fixed: Stun effects having 1 turn less duration.
 - Fixed: Ground in Window_GameProgress is now modern one instead of old one.
+- Fixed: Pigs in Boss Rush and Infpigity being their UNresolved version.
 
 [Patch 1.6.3]
 - Pig Editor 1.2.0:
