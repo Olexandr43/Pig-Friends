@@ -1,3 +1,30 @@
+[Patch 1.6.4]
+- Pig Editor 1.3.0:
+  - Pig Base is now correct for custom pigs
+  - New icon for Gear tab
+  - Fixed hats for pigs with 0 supported hats
+  - Optimised pig preview render
+  - Fixed custom pig Name load
+  - Fixed Bird render to be flipped
+  - Now "Pig Base" is disabled for Birds
+  - Removed headgear_valkyrie
+- Added: Discord RPC 2.0 - a lot of improvements and fixes.
+- Added: Restored Golden Pig Hunt tooltip and Notification.
+- Added: New "Wandering Pigs" option in Settings, ON by default.
+- Added: Translations for Jukebox.
+- Added: Hints for Pig Editor and Mod Settings.
+- Added: Save File Manager 1.5 - some improvements and fixes.
+- Fixed: Pig Gear now will only be shown on WorldMap and CC.
+- Fixed: Battle prep environmental effects no longer disappear when their icon cant be resolved.
+- Fixed: Birds use incorrect class skins in some cases.
+- Fixed: Incorrect character scale on WorldMap.
+- Fixed: Discord link.
+- Fixed: Some cutscenes.
+- Fixed: Incompetent Minions passive incorrectly counting all pig defeats instead of only ally defeats.
+- Fixed: Attack skill switcher in pair with Rage skill.
+- Fixed: Stun effects having 1 turn less duration.
+- Fixed: Ground in Window_GameProgress is now modern one instead of old one.
+
 [Patch 1.6.3]
 - Pig Editor 1.2.0:
   - Added Skill 3
