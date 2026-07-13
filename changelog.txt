@@ -229,7 +229,7 @@ Hotfix:
 - Added: all friends appear outside of Chronicle Cave.
 - Added: Buffed Valkyre.
 
-[Patch 1.5]
+[Patch 1.5] - 18.02.2026 21:56 UTC
 - Added: ally support for Arena.
 - Added: new ally menu with support up to 5 allies.
 - Added: assets for Puzzles and Dragons enemies.
@@ -246,13 +246,13 @@ Hotfix:
 - Fixed: some ally pig status-effects look.
 - Fixed: bug when pig allies could attack defeated enemy.
 
-[Patch 1.4.1]
+[Patch 1.4.1] - 14.02.2026 22:03 UTC
 - Fixed: Ally pigs\bosses effects facing wrong direction.
 - Fixed: Some skills for ally pigs.
 - Fixed: bomb + Counter skill = softlock.
 - Fixed: Vanilla PFP`s.
 
-[Patch 1.4]
+[Patch 1.4] - 14.02.2026 06:26 UTC
 - Added: Search in friend list.
 - Added: Sorting in friend list.
 - Added: Button to choose random ally.
@@ -268,19 +268,19 @@ Hotfix:
 - Fixed: boss_kraken memory leak if picked with 3 birds.
 - Removed: 'resolved' versions of pigs from friend list.
 
-[Patch 1.3.1]
+[Patch 1.3.1] - 12.02.2026 00:20 UTC
 - Fixed: Wildling passive.
 - Fixed: Ally pigs cant attack same enemy pigs.
 - Fixed: Pig allies VFX facing wrong direction.
 
-[Patch 1.3]
+[Patch 1.3] - 11.02.2026 12:54 UTC
 - Fixed: Undead passive.
 - Fixed: Pig allies with bird assets facing wrong direction.
 - Fixed: LootWheel softlock if too many people are on bird team.
 - Fixed: Rare autoplay battle softlock.
 - Added: Normal levels now have NO bird slot penalty.
 
-[Patch 1.2]
+[Patch 1.2] - 11.02.2026 01:10 UTC
 - Fixed: Pigs not having items on Battle Prep/Loot Wheel.
 - Fixed: Android package name.
 - Fixed: Charge meter visual bugs.
@@ -289,9 +289,17 @@ Hotfix:
 - Fixed: Rare battle softlock.
 - Added: Tap pig to switch attack (if 2 offensive skills).
 
-[Patch 1.1]
+[Patch 1.1] - 10.02.2026 18:38 UTC
 - Fixed: Alphapig blocks potions forever.
 - Fixed: Ally pigs/bosses not contributing to final score.
+
+[Patch 1.0] - 10.02.2026 16:30 UTC
+- First release
+
+
+
+
+
 
 
 Yo, you got me, i think...
