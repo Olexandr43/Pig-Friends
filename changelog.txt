@@ -1,5 +1,5 @@
 [Patch 1.6.5]
-- COMING SOON!
+- COMING SOON IN JULY!
 
 [Patch 1.6.4]
 - Pig Editor 1.3.0:
