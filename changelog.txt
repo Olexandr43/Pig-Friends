@@ -1,6 +1,7 @@
 [Patch 1.6.5]
 - THE UPDATE IS FULLY DONE AND WILL RELEASE VERY SOON!!!
 - STAY TUNED!!!
+- THE FINAL RELEASE DATA IS [00bfff]AUGUST 7th - 8th[-]
 
 [Patch 1.6.4]
 - Pig Editor 1.3.0:
