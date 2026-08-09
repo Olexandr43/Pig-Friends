@@ -1,8 +1,36 @@
+-- THE UPDATE IS COMING TODAY IN A FEW MINUTES --
+
 [Patch 1.6.5]
-- THE UPDATE IS (almost)FULLY DONE AND WILL RELEASE VERY SOON!!!
-- STAY TUNED!!!
-- THE FINAL RELEASE DATE IS [00008b]AUGUST 8th[-]
-( sorry for lots of delays :C )
+- Updated to Decomp June 5th 2026
+- Updated to Unity 6.3
+- Pig Editor 1.4.0:
+  - Added: Custom Skill Editor - create custom skills for your custom pigs!
+  - Added: Support for 4 skills on custom allies
+  - Added: Support for class upgrades on custom bird allies
+  - Added: Valkyrie and Merchant hats back
+  - Added: Sonic, SonicDash Bomb and Dr. Eggman
+  - Fixed: Now pig preview renders behind UI
+  - Fixed: Buttons in gear tab now show good-looking names instead of IDs
+  - Fixed: Preview render permanently breaking for some bird assets after a single fail
+  - Fixed: Editor window sometimes not closing properly
+- Added: New Setting "Skip loot wheel after winning a level" - instantly shows rewards instead of playing the animation, OFF by default
+- Added: New Setting "Allow consumables for pig allies" - lets ally pigs and ally bosses use consumables in battle, OFF by default
+- Added: Battle hint for Boss Rush
+- Added: Frame to "Change Language" that shows currently selected language
+- Added: Frame to "Save File Manager" that shows currently selected save file
+- Fixed: Lots of under-the-hood tweaks to Save File Manager
+- Fixed: Infpiggity reward reroll randomizing the loot wheel result, breaking its fixed per-star rewards.
+- Fixed: Optimized wandering pigs
+- Fixed: Mirror Image not working if second offensive skill is selected
+- Fixed: Projector Drones Clone ability makes them appear by entering the fight instead of suddenly appearing in a poof smoke
+- Fixed: Charge effect lingering after a charged attack fires by a charge command skill, causing the combatant to double-attack
+- Fixed: Passives on ally pigs dont re-trigger on certain conditions
+- Fixed: Enemies whose charge meter was started by a charge command skill didnt actually charge, leaving emty meter (Decomp bug, allies were unaffected)
+- Fixed: Rage skills dont work with Taunt
+- Fixed: Counter can leave ally pig on the battleground after being killed
+- Fixed: MinionPig and Piglette not having their right pupil when walking
+- Fixed: Boss Rush being unlocalised
+- Fixed: Jukebox tab not having correct name
 
 [Patch 1.6.4]
 - Pig Editor 1.3.0:
