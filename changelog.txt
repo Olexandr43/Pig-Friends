@@ -12,7 +12,7 @@
   - Fixed: Preview render permanently breaking for some bird assets after a single fail
   - Fixed: Editor window sometimes not closing properly
 - Added: New Setting "Skip loot wheel after winning a level" - instantly shows rewards instead of playing the animation, OFF by default
-- Added: New Setting "Allow consumables for pig allies" - lets ally pigs and ally bosses use consumables in battle, OFF by default
+- Added: New Setting "Allow potions for pig allies" - lets ally pigs and ally bosses use potions in battle, OFF by default
 - Added: Battle hint for Boss Rush
 - Added: Frame to "Change Language" that shows currently selected language
 - Added: Frame to "Save File Manager" that shows currently selected save file
