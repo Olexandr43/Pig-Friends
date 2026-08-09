@@ -1,5 +1,3 @@
--- THE UPDATE IS COMING TODAY IN A FEW MINUTES --
-
 [Patch 1.6.5]
 - Updated to Decomp June 5th 2026
 - Updated to Unity 6.3
