@@ -1,6 +1,5 @@
 [Patch 1.6.5]
-- Updated to Decomp June 5th 2026
-- Updated to Unity 6.3
+- Updated to Decomp June 5th 2026 and Unity 6.3
 - Pig Editor 1.4.0:
   - Added: Custom Skill Editor - create custom skills for your custom pigs!
   - Added: Support for 4 skills on custom allies
